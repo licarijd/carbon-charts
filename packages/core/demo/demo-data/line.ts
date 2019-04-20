@@ -1,7 +1,7 @@
 import { colors } from "./colors";
 
 export const curvedLineData = {
-	labels: ["Qty", "More", "Sold", "Restocking", "Misc"],
+	labels: ["10000000000000000", "20000000000000000", "60000000000000000", "40000000000000000", "30000000000000000"],
 	datasets: [
 		{
 			label: "Dataset 1",
